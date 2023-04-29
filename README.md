@@ -16,7 +16,7 @@ To run this:
 
 2. Please download the files in the repository 
 
-3. In *main.rs* in src folder, please update your actual private key instead of the placeholder "Your secret key" in line 11
+3. In *main.rs* in src folder, please update your actual private key in nsec1... (ie. Bech32) format instead of the placeholder "Your secret key" in line 11
    (Will recommed using a dummy key-pair generated only for test purposes. You can generate new key-pairs on any Nostr-client[https://www.nostr.net/])
 
 4. Go to this downloaded repository on Terminal/Command Prompt
